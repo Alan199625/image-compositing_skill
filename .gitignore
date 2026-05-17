@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller build artifacts (.spec is kept for reproducible rebuilds)
+build/
+dist/
+
+# Binary distribution (released via GitHub Releases, not tracked)
+*.exe
+
+# OS
+Thumbs.db
+.DS_Store
